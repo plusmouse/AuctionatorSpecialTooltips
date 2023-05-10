@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: Auctionator Special Tooltips
+## Version: 1
+## Author: plusmouse
+## RequiredDeps: Auctionator
+
+Main.lua
